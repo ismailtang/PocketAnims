@@ -1,0 +1,3 @@
+include ':pocketanims'
+include ':app'
+rootProject.name = "AnimationLibrary"
