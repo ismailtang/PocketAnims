@@ -1,6 +1,4 @@
-# PocketAnims
-
-# CoreData Android
+# PocketAnims Android
 
 ## Table of contents
 * [Setup Library](#setup)
